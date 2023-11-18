@@ -70,7 +70,7 @@ Add data sets into the tool:  <br/>
 <img src="https://github.com/ShakeebTahir/ArcGIS-Python-Automation/assets/32227140/287e1150-03d6-4689-8205-4199bd3bda63"/>
 <br />
 <br />
-Running the tool gives provides us with the most suitable areas to re-locate Bobcats:
+Running the tool gives us with the most suitable areas to re-locate Bobcats:
 <br/>
 <img src="https://github.com/ShakeebTahir/ArcGIS-Python-Automation/assets/32227140/c99d1239-45ad-4227-b5d1-d073d5622b1c" height="80%" width="80%"/>
 <br />
